@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Audit"
+  short_description: "Audit a codebase for risks and next steps"
+  default_prompt: "Use $project-audit to perform a deep, read-only audit of this project."

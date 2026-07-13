@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idea Discovery Interview"
+  short_description: "Turn a vague idea into a buildable plan"
+  default_prompt: "Use $idea-discovery-interview to interview me before planning this idea."

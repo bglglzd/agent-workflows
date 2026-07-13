@@ -1,0 +1,28 @@
+{
+  "name": "agent-workflows",
+  "version": "0.1.0",
+  "description": "Portable Markdown workflows for AI coding agents.",
+  "author": {
+    "name": "bglglzd",
+    "url": "https://github.com/bglglzd"
+  },
+  "homepage": "https://github.com/bglglzd/agent-workflows",
+  "repository": "https://github.com/bglglzd/agent-workflows",
+  "license": "MIT",
+  "keywords": ["ai-agents", "prompts", "skills", "codex", "developer-tools"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Agent Workflows",
+    "shortDescription": "Reliable workflows for AI coding agents.",
+    "longDescription": "Capture session context, audit projects safely, and discover requirements before planning.",
+    "developerName": "bglglzd",
+    "category": "Productivity",
+    "capabilities": ["Read", "Write"],
+    "defaultPrompt": [
+      "Use $session-handoff to preserve this project's context.",
+      "Use $project-audit to perform a deep, read-only audit of this project.",
+      "Use $idea-discovery-interview to turn my idea into a buildable plan."
+    ],
+    "brandColor": "#0EA5E9"
+  }
+}

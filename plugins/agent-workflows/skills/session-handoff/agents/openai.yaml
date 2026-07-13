@@ -1,0 +1,4 @@
+interface:
+  display_name: "Session Handoff"
+  short_description: "Save durable context for the next agent"
+  default_prompt: "Use $session-handoff to document this session for the next agent."

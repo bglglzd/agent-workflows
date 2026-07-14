@@ -9,7 +9,7 @@
   "homepage": "https://github.com/bglglzd/agent-workflows",
   "repository": "https://github.com/bglglzd/agent-workflows",
   "license": "MIT",
-  "keywords": ["ai-agents", "prompts", "skills", "codex", "developer-tools"],
+  "keywords": ["ai-agents", "prompts", "skills", "codex", "developer-tools", "security"],
   "skills": "./skills/",
   "interface": {
     "displayName": "Agent Workflows",
@@ -21,7 +21,8 @@
     "defaultPrompt": [
       "Use $session-handoff to preserve this project's context.",
       "Use $project-audit to perform a deep, read-only audit of this project.",
-      "Use $idea-discovery-interview to turn my idea into a buildable plan."
+      "Use $idea-discovery-interview to turn my idea into a buildable plan.",
+      "Use $security-red-team-audit to assess this authorized project and fix verified findings."
     ],
     "brandColor": "#0EA5E9"
   }

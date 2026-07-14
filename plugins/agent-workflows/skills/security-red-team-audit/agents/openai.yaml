@@ -1,0 +1,4 @@
+interface:
+  display_name: "Security Red-Team Audit"
+  short_description: "Safely find and fix security weaknesses"
+  default_prompt: "Use $security-red-team-audit to assess this authorized project and fix verified findings."

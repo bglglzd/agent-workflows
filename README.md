@@ -16,6 +16,7 @@
 | [Session Handoff](prompts/session-handoff.md) | You are ending a coding session | Durable project memory, decisions, validation results, and exact next steps |
 | [Deep Project Audit](prompts/project-audit.md) | You need to understand an unfamiliar or risky codebase | Architecture map, operational picture, prioritized findings, and a remediation plan |
 | [Idea Discovery Interview](prompts/idea-discovery-interview.md) | You have only a rough product or feature idea | A recorded discovery brief and an evidence-based implementation plan |
+| [Security Red-Team Audit](prompts/security-red-team-audit.md) | You are authorized to security-test a project | Threat model, verified findings, safe remediation, and regression tests |
 
 ```text
 Capture context  →  Understand the system  →  Build the right thing

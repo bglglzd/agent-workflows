@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Growth Audit"
+  short_description: "Prioritize an app improvement roadmap"
+  default_prompt: "Use $product-growth-audit to identify high-leverage improvements for this app."

@@ -17,6 +17,7 @@
 | [Deep Project Audit](prompts/project-audit.md) | You need to understand an unfamiliar or risky codebase | Architecture map, operational picture, prioritized findings, and a remediation plan |
 | [Idea Discovery Interview](prompts/idea-discovery-interview.md) | You have only a rough product or feature idea | A recorded discovery brief and an evidence-based implementation plan |
 | [Security Red-Team Audit](prompts/security-red-team-audit.md) | You are authorized to security-test a project | Threat model, verified findings, safe remediation, and regression tests |
+| [Product Growth Audit](prompts/product-growth-audit.md) | An existing app needs a clearer improvement direction | Evidence-based UI/UX, product, business, and technical roadmap |
 
 ```text
 Capture context  →  Understand the system  →  Build the right thing

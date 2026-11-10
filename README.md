@@ -33,7 +33,7 @@ Open a file in [`prompts/`](prompts), paste its **Prompt** section into your age
 
 ## Install in Codex
 
-This repository ships an installable Codex plugin containing all three skills at [`plugins/agent-workflows`](plugins/agent-workflows). Add its marketplace, then install the plugin:
+This repository ships an installable Codex plugin containing all five skills at [`plugins/agent-workflows`](plugins/agent-workflows). Add its marketplace, then install the plugin:
 
 ```powershell
 codex plugin marketplace add bglglzd/agent-workflows --ref main

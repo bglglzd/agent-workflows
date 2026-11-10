@@ -3,8 +3,7 @@
   "version": "0.3.0",
   "description": "Portable Markdown workflows for AI coding agents.",
   "author": {
-    "name": "bglglzd",
-    "url": "https://github.com/bglglzd"
+    "name": "Agent Workflows"
   },
   "homepage": "https://github.com/bglglzd/agent-workflows",
   "repository": "https://github.com/bglglzd/agent-workflows",
@@ -15,7 +14,7 @@
     "displayName": "Agent Workflows",
     "shortDescription": "Reliable workflows for AI coding agents.",
     "longDescription": "Capture session context, audit projects safely, and discover requirements before planning.",
-    "developerName": "bglglzd",
+    "developerName": "Agent Workflows",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],
     "defaultPrompt": [
